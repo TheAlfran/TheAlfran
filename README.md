@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheAlfran
 - 👀 I’m interested in Coding/Programming
 - 🌱 I’m currently learning Android studio/Python/Java/Php
-- 💞️ I’m looking to collaborate on Myself
+- 💞️ I’m looking to collaborate on IT companies
 - 📫 How to reach me alfrancissdionsay@gmail.com
 - 
 
