@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TheAlfran
+- 👋 Hi, I’m Alfranciss
 - 👀 I’m interested in Coding/Programming
 - 🌱 I’m currently learning React Native/Typescript
 - 💞️ I’m looking to collaborate on IT companies
 - 📫 How to reach me alfrancissdionsay@gmail.com
+
 
 
 <!---
