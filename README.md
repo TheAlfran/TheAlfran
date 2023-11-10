@@ -1,4 +1,13 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+<div align="left">
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+</div>
+
+- 👋 Hi, I’m Alfranciss
+- 👀 I’m interested in Coding/Programming
+- 🌱 I’m currently learning React Native/Typescript
+- 💞️ I’m looking to collaborate on IT companies
+- 📫 How to reach me alfrancissdionsay@gmail.com
+
 
 - 👋 Hi, I’m Alfranciss
 - 👀 I’m interested in Coding/Programming
