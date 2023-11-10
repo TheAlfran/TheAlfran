@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlfran.visitor-badge&left_text=MyPageVisitors />
+
 - 👋 Hi, I’m Alfranciss
 - 👀 I’m interested in Coding/Programming
 - 🌱 I’m currently learning React Native/Typescript
