@@ -8,6 +8,8 @@
 
 <br/>
 
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
+
 <details> 
   <summary  style="margin-top: 90;">Click Me</summary>
    <p align="center">
@@ -20,34 +22,34 @@
  <h3>Languages & Tools"</h3>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=react&animation=spin&svgfill=15d8fe">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=typescript&svgfill=2d79c7">
 </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=8ed5fa">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=javascript&svgfill=8ed5fa">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=css3&svgfill=659b60">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=flutter&svgfill=cd6799">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=dart&svgfill=df5c43"> 
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=kotlin&svgfill=df5c43">  
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swift&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=swift&svgfill=df5c43">  
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=androidstudio&svgfill=df5c43">  
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=github&svgfill=df5c43">  
 </a>
 
  <h3>Visitor Count</h3>
@@ -55,10 +57,6 @@
 ![VisitorCount](https://profile-counter.glitch.me/{TheAlfran}/count.svg)
 </div>
 </details>
-
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
-
-
 
 
 
