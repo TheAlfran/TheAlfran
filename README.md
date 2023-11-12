@@ -10,7 +10,13 @@
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
 
-![snake gif](https://github.com/TheAlfran/TheAlfran/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <details> 
   <summary  style="margin-top: 90;">Click Me</summary>
