@@ -1,21 +1,64 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=header" />
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Line+Font&size=32&pause=1000&color=11F72D&center=true&vCenter=true&random=false&width=435&lines=Mobile+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Line+Font&size=32&pause=1000&color=11F72D&center=true&vCenter=true&random=false&width=435&lines=Mobile+Engineer" alt="Typing SVG" />
+  </a>
 </div>
+
 <br/>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
-<details>
-  <summary>Click Me</summary>
- <p align="center">
+
+<details> 
+  <summary  style="margin-top: 90;">Click Me</summary>
+   <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=TheAlfran&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlfran&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TheAlfran&theme=gotham&hide_border=true&background=FFFFFF00">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=TheAlfran&theme=gotham&hide_border=true&background=FFFFFF00">
 </p>
 
+<div align="center">
+ <h3>Languages & Tools"</h3>
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=cd6799">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swift&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">  
+</a>
+
+ <h3>Visitor Count</h3>
+ 
+![VisitorCount](https://profile-counter.glitch.me/{TheAlfran}/count.svg)
 </div>
 </details>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
+
+
 
 
 
