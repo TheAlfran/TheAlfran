@@ -57,10 +57,6 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=github&svgfill=df5c43">  
 </a>
 
-<div align="center">
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=TheAlfran&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
-</div>
-
  <h3>Visitor Count</h3>
  
 ![VisitorCount](https://profile-counter.glitch.me/{TheAlfran}/count.svg)
