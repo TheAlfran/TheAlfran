@@ -6,14 +6,13 @@
   </a>
 </div>
 
-
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
 
 
 <details> 
