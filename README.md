@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Line+Font&size=32&pause=1000&color=11F72D&center=true&vCenter=true&random=false&width=435&lines=Mobile+Engineer" alt="Typing SVG" />
   </a>
 </div>
-
+<h3 align="center">My contributions"</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
