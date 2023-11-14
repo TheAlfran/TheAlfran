@@ -57,14 +57,13 @@
 </div>
 </details>
 
-<div align="center">
 <h3 align="center">My contributions</h3>
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" width="700" height="700" />
 </picture>
-</div>
+
 
 
 
