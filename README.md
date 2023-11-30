@@ -7,7 +7,6 @@
 </div>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
 <details> 
-  
   <summary  style="margin-top: 90;">Click Me</summary>
    <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=TheAlfran&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
