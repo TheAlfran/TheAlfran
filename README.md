@@ -54,11 +54,11 @@
 ![VisitorCount](https://profile-counter.glitch.me/{TheAlfran}/count.svg)
 </div>
 </details>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheAlfran/TheAlfran/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 <h3 align="center">My contributions</h3>
 
 
