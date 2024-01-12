@@ -49,6 +49,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%2398FB98%200%25%2C%20%2300FF7F%20100%25%29%3B%0A&logo=github&svgfill=df5c43">  
 </a>
 
+
  <h3>Visitor Count</h3>
  
 ![VisitorCount](https://profile-counter.glitch.me/{TheAlfran}/count.svg)
