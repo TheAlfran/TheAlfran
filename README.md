@@ -6,7 +6,7 @@
   
 </div>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=70&section=footer"/>
-<details> 
+<details>  
 
   <summary  style="margin-top: 90;">Click Me</summary>
    <p align="center">
